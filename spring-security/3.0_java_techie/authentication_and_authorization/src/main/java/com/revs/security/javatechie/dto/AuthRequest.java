@@ -1,19 +1,15 @@
 package com.revs.security.javatechie.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
-@Builder
-public class Product {
+@AllArgsConstructor
+public class AuthRequest {
 
-	private int id;
-	private String name;
-	private int quantity;
-	private double price;
+	private String username;
+	private String password;
 	
 }

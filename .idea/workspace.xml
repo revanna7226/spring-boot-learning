@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="633fb2d8-88ae-4de4-b137-6c270977af87" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/dto/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/dto/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/service/UserInfoUserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/java/com/revs/security/javatechie/service/UserInfoUserDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security/3.0_java_techie/authentication_and_authorization/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OlnasJwHC0Vrss4quXVQuTdJUo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Professional/Tutorials/Spring/Security/Java Techie/mycode/spring-security/3.0_java_techie/authentication_and_authorization"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633fb2d8-88ae-4de4-b137-6c270977af87" name="Changes" comment="" />
+      <created>1682144104045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682144104045</updated>
+    </task>
+    <servers />
+  </component>
+</project>
