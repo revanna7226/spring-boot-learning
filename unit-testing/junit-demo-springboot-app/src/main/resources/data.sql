@@ -1,0 +1,2 @@
+INSERT INTO BOOK_INFO(id, name, summery, rating) VALUES(1, 'Atomic Habits', 'Boost up your habits', 5);
+INSERT INTO BOOK_INFO(id, name, summery, rating) VALUES(2, 'Power of your subconcious mind', 'Brainstraiming Book', 4);
